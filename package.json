@@ -24,7 +24,7 @@
     "solid-element": "^1.8.0",
     "solid-js": "^1.9.13",
     "throttle-debounce": "^5.0.2",
-    "vite": "^7.3.6",
+    "vite": "^7.3.7",
     "vite-plugin-solid": "^2.11.12",
     "vite-plugin-static-copy": "^4.1.1"
   },
