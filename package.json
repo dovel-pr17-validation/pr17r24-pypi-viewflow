@@ -8,7 +8,7 @@
     "workflow101-server": "tox -q python -- cookbook/workflow101/manage.py runserver  --nothreading"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.29.7",
+    "@babel/eslint-parser": "^7.29.9",
     "@babel/plugin-proposal-class-properties": "^7.18.6",
     "@babel/preset-react": "^7.29.7",
     "@web/dev-server": "^0.4.6",
